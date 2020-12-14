@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 2px solid blue;
+}
+
+.wrapper {
+    width: 970px;
+    margin: 0 auto;
+}
+
+.main {
+    background-color: #245076;
+}
+
+.main img {
+    height: 100px;
+    margin: 20px;
+}
+
+.search {
+    display: inline-block;
+    margin: 20px 20px 20px 300px;
+    vertical-align: top;
+    height: 80px;
+}
+
+.search p {
+    color: whitesmoke;
+}
+
+.search a {
+    color: #ceaf03;
+}
+
+.search form {
+    vertical-align: top;
+    height: ;
+}
+
+.search form input {
+    display: inline-block;
+    height: 30px;
+}
